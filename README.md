@@ -1,5 +1,3 @@
-![Iris Dataset Scatterplot Animation](iris_scatterplot_animation.gif)
-
 # <h1 align='center'>**Iris Flower Classification Project**</h1>
 
 ## **Project Description**
