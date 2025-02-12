@@ -1,6 +1,6 @@
 # <h1 align='center'>**Iris Flower Classification Project**</h1>
 
-## **Project Description**
+# **Project Description**
 - This project aims to classify iris flowers into three species (**setosa**, **versicolor**, **virginica**) based on their sepal and petal dimensions. This project demonstrates the fundamental concepts of supervised learning, including data visualization, model training, evaluation, and deployment. We will use 
   Scikit-learn's built-in Iris dataset. This project focuses on classifying iris flowers into three species: Setosa, Versicolor, and Virginica using machine learning techniques. The dataset used is the famous Iris dataset, which consists of 150 samples with four features: sepal length, sepal width, petal length, and petal 
   width.
