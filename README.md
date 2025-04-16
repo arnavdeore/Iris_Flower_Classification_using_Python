@@ -5,8 +5,6 @@
   Scikit-learn's built-in Iris dataset. This project focuses on classifying iris flowers into three species: Setosa, Versicolor, and Virginica using machine learning techniques. The dataset used is the famous Iris dataset, which consists of 150 samples with four features: sepal length, sepal width, petal length, and petal 
   width.
 
----
-
 ## **Dataset**
    - Source: The Iris dataset is a well-known dataset from Fisher's 1936 paper on discriminant analysis.
    - Features:
