@@ -55,6 +55,7 @@
    8. Model Deployment(optional): Prepares the project for practical usage with saved models.
 
 ---
+
 ## **Future Improvements**
    - Experiment with different machine learning models.
    - Implement deep learning models for classification.
